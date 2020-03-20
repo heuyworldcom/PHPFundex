@@ -144,7 +144,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "PHP FunDex - Function Indexer";
+            this.Text = "PHP FunDex - Function Indexer - by Kevin J Brosnahan (www.LateNiteWare.com)";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
