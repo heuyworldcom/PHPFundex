@@ -54,7 +54,6 @@
             // fileDial
             // 
             this.fileDial.Filter = "PHP files|*.php";
-            this.fileDial.InitialDirectory = "C:\\xampp\\htdocs\\xampp\\phpinterrogator";
             this.fileDial.SupportMultiDottedExtensions = true;
             // 
             // label1
