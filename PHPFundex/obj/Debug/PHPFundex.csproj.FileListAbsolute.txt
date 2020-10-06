@@ -1,0 +1,15 @@
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\PHPFundex.exe.config
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\PHPFundex.exe
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\PHPFundex.pdb
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.Form1.resources
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.Properties.Resources.resources
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.csproj.GenerateResource.Cache
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.exe
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.pdb
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\jpbro\Documents\Visual Studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\PHPFundex.exe.manifest
+C:\Users\jpbro\Documents\Visual Studio 2013\Projects\PHPFundex\PHPFundex\bin\Debug\PHPFundex.application
+C:\Users\jpbro\Documents\Visual Studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.exe.manifest
+C:\Users\jpbro\Documents\Visual Studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.application
+C:\Users\jpbro\documents\visual studio 2013\Projects\PHPFundex\PHPFundex\obj\Debug\PHPFundex.csprojResolveAssemblyReference.cache
